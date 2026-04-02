@@ -4,8 +4,8 @@ Elite Roblox Script Service — The Final Evolution.
 
 ## Stack
 
-- **Next.js 14** (Pages Router)
-- **React 18**
+- **Next.js 15** (Pages Router)
+- **React 19**
 - **TypeScript**
 - CSS Modules + CSS Variables
 
